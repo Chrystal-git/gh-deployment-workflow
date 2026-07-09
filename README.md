@@ -27,7 +27,6 @@ Une fois GitHub Pages activé, le site sera disponible à :
 https://github.com/Chrystal-git/gh-deployment-workflow.git
 ```
 
-Remplacez `<username>` par votre nom d'utilisateur GitHub.
 
 ## Technologies
 
