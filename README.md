@@ -1,45 +1,35 @@
 # GitHub Pages Deployment Workflow
 
-Ce projet montre comment déployer automatiquement un site statique vers GitHub Pages en utilisant GitHub Actions.
+Ce projet démontre comment déployer automatiquement un site web statique sur **GitHub Pages** en utilisant **GitHub Actions**.
 
 ## Repository
 
 https://github.com/Chrystal-git/gh-deployment-workflow
 
-## Project URL
+## Live Website
 
 https://chrystal-git.github.io/gh-deployment-workflow/
 
+## Project Overview
 
-## Contenu du projet
+Ce dépôt contient :
 
-- `index.html` : page web principale.
-- `.github/workflows/deploy.yml` : workflow GitHub Actions qui déploie le site.
-- `README.md` : documentation du projet.
+- `index.html` : la page web principale.
+- `.github/workflows/deploy.yml` : le workflow GitHub Actions qui déploie automatiquement le site.
+- `README.md` : la documentation du projet.
 
-## Fonctionnement
+## How It Works
 
-Le workflow se déclenche automatiquement lorsqu'une modification est effectuée sur le fichier `index.html` de la branche `main`.
+Le workflow GitHub Actions se déclenche automatiquement lorsqu'une modification est apportée au fichier `index.html` sur la branche `main`.
 
-Les étapes exécutées sont :
+Les étapes du workflow sont les suivantes :
 
 1. Récupération du dépôt.
 2. Configuration de GitHub Pages.
 3. Téléversement des fichiers du site.
-4. Déploiement automatique vers GitHub Pages.
+4. Déploiement automatique sur GitHub Pages.
 
-
-
-## URL du site
-
-Une fois GitHub Pages activé, le site sera disponible à :
-
-```
-https://chrystal-git.github.io/gh-deployment-workflow/
-```
-
-
-## Technologies
+## Technologies Used
 
 - HTML5
 - GitHub Actions
