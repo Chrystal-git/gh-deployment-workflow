@@ -35,7 +35,7 @@ Les étapes exécutées sont :
 Une fois GitHub Pages activé, le site sera disponible à :
 
 ```
-https://github.com/Chrystal-git/gh-deployment-workflow
+https://chrystal-git.github.io/gh-deployment-workflow/
 ```
 
 
