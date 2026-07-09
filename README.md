@@ -2,6 +2,15 @@
 
 Ce projet montre comment déployer automatiquement un site statique vers GitHub Pages en utilisant GitHub Actions.
 
+## Repository
+
+https://github.com/Chrystal-git/gh-deployment-workflow
+
+## Project URL
+
+https://chrystal-git.github.io/gh-deployment-workflow/
+
+
 ## Contenu du projet
 
 - `index.html` : page web principale.
@@ -28,12 +37,6 @@ Une fois GitHub Pages activé, le site sera disponible à :
 ```
 https://github.com/Chrystal-git/gh-deployment-workflow
 ```
-
-Repository :
-https://github.com/Chrystal-git/gh-deployment-workflow
-
-GitHub Pages :
-https://Chrystal-git.github.io/gh-deployment-workflow/
 
 ## Technologies
 
